@@ -8,6 +8,6 @@
 
 ## Results
 
-<p align="center" width="50%">
+<p align="center">
 	<img src="requirement/125success.png" alt="125success" />
 </p>
