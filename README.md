@@ -2,7 +2,7 @@
 
 ## Subject
 
-<a href="https://www.mangaupdates.com/](https://github.com/yanislabbe/Libft-42Quebec/blob/main/requirement/Libft-Subject-FR-42Quebec.pdf">Subject</a>
+<a href="https://github.com/yanislabbe/Libft-42Quebec/blob/main/requirement/Libft-Subject-FR-42Quebec.pdf">Subject</a>
 
 ## Usage
 
