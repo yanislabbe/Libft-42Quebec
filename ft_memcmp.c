@@ -6,7 +6,7 @@
 /*   By: ylabbe <ylabbe@student.42quebec.c>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/10/04 17:54:37 by ylabbe            #+#    #+#             */
-/*   Updated: 2021/10/12 13:04:40 by ylabbe           ###   ########.fr       */
+/*   Updated: 2022/12/15 05:26:45 by ylabbe           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -20,7 +20,7 @@ int	ft_memcmp(const void *s1, const void *s2, size_t n)
 	while (n--)
 	{
 		if (((const unsigned char *)s1)[count] !=
-			   ((const unsigned char *)s2)[count])
+			((const unsigned char *)s2)[count])
 			return (((const unsigned char *)s1)[count] -
 					((const unsigned char *)s2)[count]);
 		count++;
